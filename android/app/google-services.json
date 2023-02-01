@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387388344279",
+    "project_id": "parking-database-f9532",
+    "storage_bucket": "parking-database-f9532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387388344279:android:08e0ca2301c55e3cec6d92",
+        "android_client_info": {
+          "package_name": "com.example.flutter_gmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387388344279-memm2mmul302jdof2tb5njakae9fun2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkBafcTRAyC9rXmYtlSnm8QTBnZxbbJdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387388344279-memm2mmul302jdof2tb5njakae9fun2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
